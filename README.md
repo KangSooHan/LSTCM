@@ -13,4 +13,6 @@ We train the model on Penn Tree Bank datasets. site[https://catalog.ldc.upenn.ed
 
 
 ## Training
+```
   * python train.py
+```
